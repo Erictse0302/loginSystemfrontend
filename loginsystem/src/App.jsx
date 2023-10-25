@@ -10,7 +10,7 @@ function App() {
     <>
       <div>
         <LoginSignup/>
-        <AuthContent/>
+       <AuthContent/>
       </div>
     </>
   )

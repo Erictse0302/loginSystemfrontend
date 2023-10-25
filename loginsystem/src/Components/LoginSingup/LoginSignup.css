@@ -82,10 +82,6 @@
     display: flex;
     gap: 30px;
     margin:60px auto;
-}
-
-.submit{
-
     display: flex;
     justify-content: center;
     align-items: center;
@@ -98,9 +94,4 @@
     background: #4c004c;
     font-weight: 700;
     cursor: pointer;
-    
-}
-.gray{
-    background:#eaeaea;
-    color: #676767;
 }
